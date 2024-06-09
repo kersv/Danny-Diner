@@ -15,8 +15,11 @@ By gaining these insights, Danny aims to enhance customer relationships, deliver
 ## Datasets
 The following datasets are provided to help analyze the data and answer the questions:
 - `members`: Information about the members.
+  
 ![members](data-tables/members.png)
 - `sales`: Records of sales transactions.
+
 ![sales](data-tables/sales.png)
 - `menu`: Details of the menu items offered.
+
 ![menu](data-tables/menu.png)
